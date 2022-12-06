@@ -1,0 +1,12 @@
+td {
+    border-radius: 10px;
+    outline: orangered,solid,5px;
+}
+
+* {
+    text-align: center;
+}
+
+.pokecard-card{
+    background-color: rgb(213, 213, 213);
+}
